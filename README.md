@@ -22,17 +22,12 @@
 
 2. Перейдите в каталог проекта:
    ```bash
-   cd CalculatorProtezov
-   ```
-
-3. Установите зависимости:
-   ```bash
-   npm install
+   cd Prosthetic Calculator
    ```
 
 4. Запустите приложение:
    ```bash
-   npm start
+   python3 main.py
    ```
 
 ## Использование
